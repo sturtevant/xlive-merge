@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"algorithm": "c",
+			"locale": "c",
+			"memory": "c",
+			"utility": "c",
+			"iterator": "c"
+		}
+	}
+}
